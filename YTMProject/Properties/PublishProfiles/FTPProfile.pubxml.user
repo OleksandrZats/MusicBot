@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAHOW48l8V/EmGs0GfDOZ22QAAAAACAAAAAAAQZgAAAAEAACAAAADFSeAjCooc2XjqE5rGU1+XI85u5enAi4rkTocib3uRdwAAAAAOgAAAAAIAACAAAAAtAJQkEsuUe8o1K9sMPZl8s8SePLQFJWhP6bPEfbYB6yAAAACgdo/CkDyXU43mSZaBGrZpUT/wPQkyhxYuafJ1A6af8UAAAACGCjtOIWf1EcaHlmU700uxVcc+XK9mP8SlkCiMT9Yytidp67vhGXkDLDdaaYAaaQ3XWc3scncHFmzxjLtg89Xb</EncryptedPassword>
+    <_PublishTargetUrl>ftp://www.ytmusiccontrol.somee.com/www.ytmusiccontrol.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>11/09/2020 13:55:59</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>11/09/2020 13:55:59</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/24/2018 17:44:14</publishTime>
+    </File>
+    <File Include="Telegram.Bot.dll">
+      <publishTime>06/18/2020 17:46:38</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>11/09/2020 16:47:53</publishTime>
+    </File>
+    <File Include="YTMProject.deps.json">
+      <publishTime>11/09/2020 16:47:53</publishTime>
+    </File>
+    <File Include="YTMProject.dll">
+      <publishTime>11/09/2020 16:47:50</publishTime>
+    </File>
+    <File Include="YTMProject.exe">
+      <publishTime>11/09/2020 16:47:50</publishTime>
+    </File>
+    <File Include="YTMProject.pdb">
+      <publishTime>11/09/2020 16:47:50</publishTime>
+    </File>
+    <File Include="YTMProject.runtimeconfig.json">
+      <publishTime>11/09/2020 15:19:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
