@@ -22,7 +22,7 @@ namespace YTMProject.Models
 			}
 			//TODO: Add more commands
 
-			botClient = new TelegramBotClient("1306478285:AAFqGAr8TZMA4Ot6wtDuGp1wV7fDldKxyRs");
+			botClient = new TelegramBotClient("APIKEY");
 			return botClient;
 		}
 	}
